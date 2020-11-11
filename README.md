@@ -9,6 +9,8 @@ After doing so, return the final string.  If there is no way to do so, return th
 ## Example
 Let's take a string ```palindrome``` where ```palindrome = "abccba"```.
 
+The result would be ```aaccba```
+
 We need to break the palindrome and also return the smallest possible string.
 
 ### Reminder
