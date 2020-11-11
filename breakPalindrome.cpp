@@ -8,7 +8,7 @@
 /*
  *  BREAK THE PALINDROME
  */
-string breakPalindrome(string palindrome){
+std::string breakPalindrome(std::string palindrome){
     int n = palindrome.length();
 
     //If there is only 1 character then we return an empty string
